@@ -1,7 +1,7 @@
 <h2>Hy everyone, welcome to my code space.✋🐈</h2>
 <h3> My name is Pedro Henrique and i am a Python Developer focused in solutions with data. </h3>
-<h3> If you want my services or would like to work with me, contact me via linkedin, i will be very happy to talk with you. 
-Feel free to copy/manipulate any code that is from a public repository. If you find improvement (probably will) in my codes/projects, please contact me and rate me.  Thanks for listening. </h3>   
+<p> If you want my services or would like to work with me, contact me via linkedin, i will be very happy to talk with you. 
+Feel free to copy/manipulate any code that is from a public repository. If you find improvement (probably will) in my codes/projects, please contact me and rate me.  Thanks for listening. </p>   
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-gonçalves-carlos-525158199/)
 [![Alura]()](https://cursos.alura.com.br/user/pedrohgc)
