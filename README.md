@@ -8,8 +8,6 @@ Feel free to copy/manipulate any code that is from a public repository. If you f
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/530774929763991572)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PedroHGonsalves)
 
-##Technologies I like
+<h2>Technologies I like</h2>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
- 
