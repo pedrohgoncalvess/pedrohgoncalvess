@@ -4,9 +4,10 @@
 Feel free to copy/manipulate any code that is from a public repository. If you find improvement (probably will) in my codes/projects, please contact me and rate me.  Thanks for listening. </p>   
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-gonçalves-carlos-525158199/)
-[![Alura]()](https://cursos.alura.com.br/user/pedrohgc)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/530774929763991572)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PedroHGonsalves)
+
+[Click here to follow me learning in Alura](https://cursos.alura.com.br/user/pedrohgc)
 
 <h2 align='center'>Technologies I like</h2>
 
