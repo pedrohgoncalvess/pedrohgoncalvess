@@ -7,7 +7,7 @@ Feel free to copy/manipulate any code that is from a public repository. If you f
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/530774929763991572)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PedroHGonsalves)
 
-[Click here to follow me learning in Alura](https://cursos.alura.com.br/user/pedrohgc)
+[Follow me learning in Alura](https://cursos.alura.com.br/user/pedrohgc)
 
 <h2 align='center'>Technologies I like</h2>
 
