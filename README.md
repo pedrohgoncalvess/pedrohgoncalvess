@@ -1,15 +1,15 @@
-<h1 align='center'>Hy everyone, welcome to my code space.✋🐈</h1>
-<h3> My name is Pedro Henrique and i am a Python Developer focused in solutions with data. </h3>
-<p> If you want my services or would like to work with me, contact me via linkedin, i will be very happy to talk with you. 
-Feel free to copy/manipulate any code that is from a public repository. If you find improvement (probably will) in my codes/projects, please contact me and rate me.  Thanks for listening. </p>   
+<h1>Pedro H. Gonçalves</h1>
+<p>Welcome to my codespace. My name is Pedro and i am a Python Developer focused in solutions with data.</p>   
+
+<p><b>Follow me in:</b></p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-gonçalves-carlos-525158199/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/530774929763991572)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PedroHGonsalves)
 
-[Follow me learning in Alura](https://cursos.alura.com.br/user/pedrohgc)
+[Learning in Alura](https://cursos.alura.com.br/user/pedrohgc)
 
-<h2 align='center'>Technologies I like</h2>
+<h2>Technologies I like</h2>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
