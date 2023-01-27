@@ -21,3 +21,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
+<h1 align='center'>Git stats</h1>
+
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohgoncalvess&show_icons=true&theme=dracula)
