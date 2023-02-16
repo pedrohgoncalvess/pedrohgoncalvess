@@ -1,3 +1,4 @@
+<div align='center'>
 <h1>Pedro H. Gonçalves</h1>
 <p>Welcome to my codespace. My name is Pedro and i am a Python Developer focused in solutions with data.</p>   
 
@@ -7,8 +8,9 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discord.com/users/530774929763991572)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PedroHGonsalves)
 
-- [Learning tech in Alura](https://cursos.alura.com.br/user/pedrohgc)
-- [Learning cloud in Microsoft](https://learn.microsoft.com/pt-br/users/PedroHenriqueGonalves-8662)
+[Learning tech in Alura](https://cursos.alura.com.br/user/pedrohgc)
+  
+[Learning cloud in Microsoft](https://learn.microsoft.com/pt-br/users/PedroHenriqueGonalves-8662)
 
 <h2>Technologies I like</h2>
 
@@ -25,3 +27,4 @@
 <h1 align='center'>Git stats</h1>
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohgoncalvess&show_icons=true&theme=dracula)
+</div>
