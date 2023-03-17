@@ -1,5 +1,5 @@
 <div align='center'>
-<h1>Pedro H. Gonçalves</h1>
+<h1>Pedro H.</h1>
 <p>Welcome to my codespace. My name is Pedro and I am a python/scala developer focused in solutions with data.</p>   
 
 <p><b>Follow me in:</b></p>
