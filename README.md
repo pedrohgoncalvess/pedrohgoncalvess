@@ -42,8 +42,3 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
-
-
-<h1 align='center'>Git stats</h1>
-
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohgoncalvess&show_icons=true&theme=dracula)
